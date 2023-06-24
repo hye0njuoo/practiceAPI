@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //getTest()
+        getTest()
     }
     func getTest() {
         let url = "https://jsonplaceholder.typicode.com/todos/1"
